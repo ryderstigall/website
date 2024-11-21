@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# website
+ryder
+=======
 # website 
 <body>
 <h1>cr500</h1>
@@ -9,3 +13,4 @@
 
 
 
+>>>>>>> master
